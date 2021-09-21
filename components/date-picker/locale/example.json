@@ -2,7 +2,7 @@
   "lang": {
     "locale": "en_US",
     "placeholder": "Select date",
-    "rangePlaceholder": ["Start date", "End date"],
+    "rangePlaceholder": ["开始日期", "结束日期"],
     "today": "Today",
     "now": "Now",
     "backToToday": "Back to today",
